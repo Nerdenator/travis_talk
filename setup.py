@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='travis_talk',
-      version=0.6,
+      version=0.7,
       description='a testament to the arrogance and folly of man',
       author='rusty shackleford',
       license='none',
